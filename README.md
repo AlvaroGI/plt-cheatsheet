@@ -1,4 +1,4 @@
-# Python plots cheat sheet
+# plt-cheatsheet
 This repository collects some functions and pieces of code that I often find useful, mainly to properly format scientific plots.
 
 Here you can find two cheat sheets:
